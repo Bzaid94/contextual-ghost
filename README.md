@@ -1,7 +1,7 @@
 # 👻 Contextual Ghost (CG)
 > *The Survival Agent for Developers.*
 
-![Ghost Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif) <!-- Place holder for a cool demo gif -->
+![Ghost Demo]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd1NWk1YXM4aXRlNDM2c3dheWVrbjl1cHBocnd5c2Rkc2FtdHVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pmGFexW39VZRCHbSS8/giphy.gif))
 
 **Stop Copy-Pasting Errors.**
 **Stop Losing Context.**
