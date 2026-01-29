@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/bdiaz/contextual-ghost/pkg/context"
+	"github.com/Bzaid94/contextual-ghost/pkg/context"
 )
 
 type Bridge struct{}

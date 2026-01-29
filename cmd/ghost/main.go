@@ -6,9 +6,9 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/bdiaz/contextual-ghost/pkg/context"
-	"github.com/bdiaz/contextual-ghost/pkg/runner"
-	"github.com/bdiaz/contextual-ghost/pkg/ui"
+	"github.com/Bzaid94/contextual-ghost/pkg/context"
+	"github.com/Bzaid94/contextual-ghost/pkg/runner"
+	"github.com/Bzaid94/contextual-ghost/pkg/ui"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 )
