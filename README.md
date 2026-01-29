@@ -52,11 +52,11 @@ gh extension install github/gh-copilot
 Don't change your workflow. Just invite the Ghost.
 
 ```bash
-# Instead of:
-go run main.go
+# General usage:
+ghost <your-command>
 
-# Do:
-ghost go run main.go
+# Example:
+ghost ls /nonexistent
 ```
 
 If it works? **Silence.**
