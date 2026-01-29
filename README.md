@@ -24,17 +24,17 @@ Powered by **GitHub Copilot CLI**, Ghost doesn't just guess—it *knows*. It see
 ## 📦 Installation
 
 ### Option 1: Binary (Recommended for non-Go users)
-Download the latest binary for your OS (Windows, macOS, Linux) from the [Releases](https://github.com/bdiaz/ghost/releases) page.
+Download the latest binary for your OS (Windows, macOS, Linux) from the [Releases](https://github.com/bdiaz/contextual-ghost/releases) page.
 
 ```bash
 # Example for macOS/Linux:
-curl -sL https://github.com/bdiaz/ghost/releases/latest/download/ghost_Darwin_x86_64.tar.gz | tar xz
-sudo mv ghost /usr/local/bin/
+curl -sL https://github.com/bdiaz/contextual-ghost/releases/latest/download/contextual-ghost_Darwin_x86_64.tar.gz | tar xz
+sudo mv contextual-ghost /usr/local/bin/
 ```
 
 ### Option 2: Go Install (For Go users)
 ```bash
-go install github.com/bdiaz/ghost@latest
+go install github.com/bdiaz/contextual-ghost@latest
 ```
 
 ## 🧠 Brains (Required)

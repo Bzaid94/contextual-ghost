@@ -9,8 +9,8 @@ before:
     - go mod tidy
 
 builds:
-  - id: ghost
-    binary: ghost
+  - id: contextual-ghost
+    binary: contextual-ghost
     main: ./cmd/ghost
     env:
       - CGO_ENABLED=0

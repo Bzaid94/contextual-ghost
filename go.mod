@@ -1,4 +1,4 @@
-module github.com/bdiaz/ghost
+module github.com/bdiaz/contextual-ghost
 
 go 1.24.0
 

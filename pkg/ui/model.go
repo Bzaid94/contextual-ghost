@@ -6,8 +6,8 @@ import (
 
 	"time"
 
-	"github.com/bdiaz/ghost/pkg/bridge"
-	"github.com/bdiaz/ghost/pkg/context"
+	"github.com/bdiaz/contextual-ghost/pkg/bridge"
+	"github.com/bdiaz/contextual-ghost/pkg/context"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 )

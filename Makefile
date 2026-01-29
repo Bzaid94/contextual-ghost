@@ -1,4 +1,4 @@
-BINARY_NAME=ghost
+BINARY_NAME=contextual-ghost
 
 .PHONY: build clean run install
 
